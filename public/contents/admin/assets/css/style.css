@@ -1,0 +1,45 @@
+*{
+  margin:0px;
+
+}
+
+.card_header_text{
+  font-size:21px;
+  font-weight:bold;
+}
+
+table.view_table tr td:first-child{
+  width:28%;
+  font-weight:bold;
+  text-align:right;
+}
+
+table.view_table tr td:last-child{
+  width:70%;
+  text-align:left;
+}
+
+.search_text{
+	margin-left: 3px;
+  font-weight: bold;
+}
+
+.card_header_for_one_button{
+  padding-left: 0px;
+}
+
+.card_header_for_two_button{
+  padding-left: 139px;
+}
+
+.card_header_for_three_button{
+  padding-left: 47px;
+}
+
+.summary_date_form_section{
+  padding-left: 9px;
+}
+
+.summary_month_name_section{
+  padding-left: 101px;
+}
